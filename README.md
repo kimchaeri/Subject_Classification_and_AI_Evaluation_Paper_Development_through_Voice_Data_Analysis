@@ -39,6 +39,9 @@ Matching the Korean evaluation paper with the appropriate topic based on the aud
 - Use BERTopic
 ![topic](https://github.com/kimchaeri/Subject_Classification_and_AI_Evaluation_Paper_Development_through_Voice_Data_Analysis/assets/74261590/95d32170-27b8-464c-8859-39d0e16695f1)
 
+- Final topic
+![image](https://github.com/kimchaeri/Subject_Classification_and_AI_Evaluation_Paper_Development_through_Voice_Data_Analysis/assets/74261590/30a2445a-8cb3-4cda-8a09-61401df15261)
+
 4. Labeling according to topics and train the model
 
 
