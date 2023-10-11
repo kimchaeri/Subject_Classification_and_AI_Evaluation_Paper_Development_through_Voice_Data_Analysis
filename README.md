@@ -43,6 +43,9 @@ Matching the Korean evaluation paper with the appropriate topic based on the aud
 ![image](https://github.com/kimchaeri/Subject_Classification_and_AI_Evaluation_Paper_Development_through_Voice_Data_Analysis/assets/74261590/30a2445a-8cb3-4cda-8a09-61401df15261)
 
 4. Labeling according to topics and train the model
+- Use AIHub data for train and validation data
+- Use Genius data(speech data between teachers and students) for test data
+- Best performance 92.34% when maxlen is 512 while we unfreeze kobert
 
 
 
