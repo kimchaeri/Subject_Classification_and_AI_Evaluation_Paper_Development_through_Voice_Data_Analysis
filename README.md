@@ -2,8 +2,12 @@
 
 ## Goal
 Matching the Korean evaluation paper with the appropriate topic based on the audio conversation data between two people
+
 ## Detailed Goal
-### Language identification of audio data
+1. Language identification of audio data
+- Recognize language of audio data
+- Multilingual model
+- Language recognition rate above 95%
 
 ## Process
 1. Language identification of audio data
