@@ -1,6 +1,9 @@
 # Subject_Classification_and_AI_Evaluation_Paper_Development_through_Voice_Data_Analysis
 
 ## Goal
+Matching the Korean evaluation paper with the appropriate topic based on the audio conversation data between two people
+## Detailed Goal
+### Language identification of audio data
 
 ## Process
 1. Language identification of audio data
